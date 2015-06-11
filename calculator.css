@@ -1,0 +1,9 @@
+.button{
+    -fx-border-width: 2;
+    -fx-background-color: lightblue;
+    -fx-text-fill: black;
+}
+
+.text-area{
+    -fx-background-color: lightblue ;
+}
